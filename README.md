@@ -19,6 +19,7 @@
 - 要記得加Redmine單號
 ![](https://i.imgur.com/DbZFd6a.png)
 - Redmine 單要將 sql 加入附檔。
+- [NCA.ear內容解析](https://docs.google.com/document/d/1s1ylqR4gRjGis7k666cv2O2AoaQkHViJM1pDbIoSEis/edit?usp=sharing)
 
 ### 其他
 - [行資三組共用資料夾](https://iisicloud-my.sharepoint.com/personal/iisi_fsol_iisigroup_com/PS116FS/Forms/AllItems.aspx?e=2%3AbkhH6n&at=9&CT=1674096755141&OR=OWA%2DNT&CID=0eff1aab%2D525b%2Ddf44%2D88bc%2Df5561166d59d)
