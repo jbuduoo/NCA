@@ -28,6 +28,7 @@
 
 ### 清除快取
 http://localhost:8080/MND_NCA/__clearCache.jsp
+![](https://i.imgur.com/L4ddd5T.png)
 
 ### 資料庫相關
 1.資料庫在跑完一段insert into 後，要按commit
