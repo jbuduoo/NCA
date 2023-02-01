@@ -2,7 +2,7 @@
 
 ## 安裝手冊
  - [NCA_TFS_Eclipse安裝手冊](https://docs.google.com/document/d/1Ek5vAd7mypgevbCyKLGoVSXHI2Kv50nOgrzG_PBmDcU/edit?usp=sharing)
- - [研發替代役環境架設20230109](https://docs.google.com/document/d/12ztGDT136hPuTqtJqSEneAS8weQZbJ40yhNFrUdUujM/edit)
+ - [NCA_Azure_Eclipse 安裝手冊(2023)](https://docs.google.com/document/d/12ztGDT136hPuTqtJqSEneAS8weQZbJ40yhNFrUdUujM/edit)
  - [Azure DevOps 操作位置](https://dev.azure.com/2209014)
  - [Azure Boards 操作方法](https://docs.google.com/document/d/1x6twa_YMlnA9O5YeeT-nFLTbArsv1MiQIzccCilDQTs/edit#heading=h.78nez8si7q2c)
 
