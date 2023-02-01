@@ -27,7 +27,7 @@
 - [行資三組共用資料夾](https://iisicloud-my.sharepoint.com/personal/iisi_fsol_iisigroup_com/PS116FS/Forms/AllItems.aspx?e=2%3AbkhH6n&at=9&CT=1674096755141&OR=OWA%2DNT&CID=0eff1aab%2D525b%2Ddf44%2D88bc%2Df5561166d59d)
 
 ### 清除快取
-http://localhost:8080/MND_NCA/__clearCache.jsp
+http://localhost:8080/MND_NCA/__clearCache.jsp <br/>
 ![](https://i.imgur.com/L4ddd5T.png)
 
 ### 資料庫相關
