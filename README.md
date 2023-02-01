@@ -24,3 +24,11 @@
 ### 其他
 - [行資三組共用資料夾](https://iisicloud-my.sharepoint.com/personal/iisi_fsol_iisigroup_com/PS116FS/Forms/AllItems.aspx?e=2%3AbkhH6n&at=9&CT=1674096755141&OR=OWA%2DNT&CID=0eff1aab%2D525b%2Ddf44%2D88bc%2Df5561166d59d)
 
+### 清除快取
+http://localhost:8080/MND_NCA/__clearCache.jsp
+
+### 資料庫相關
+1.資料庫在跑完一段insert into 後，要按commit
+2.有時eclipse 沒有辦法run時，若是跑資料庫，有可能是沒有commit的問題。
+3.在資料庫上，直接按新刪修改時，要按commit。
+4.資料讓它透明，把要查詢的資料一起查出來，但需要的欄位都要有，然後放在一起做判斷。
