@@ -6,7 +6,7 @@
  - [Azure DevOps 操作位置](https://dev.azure.com/2209014)
  - [Azure Boards 操作方法](https://docs.google.com/document/d/1x6twa_YMlnA9O5YeeT-nFLTbArsv1MiQIzccCilDQTs/edit#heading=h.78nez8si7q2c)
  - [相關系統安裝手冊](https://iisicloud-my.sharepoint.com/personal/iisi_fsol_iisigroup_com/PS116FS/Forms/AllItems.aspx?e=2%3ApgPpnq&at=9&CID=421cc200%2D8d56%2D248d%2Dcc47%2D3676f0c9a0c2&OR=Teams%2DHL&CT=1674110987958&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIyNy8yMzAxMDUwNTYwMCIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D&id=%2Fpersonal%2Fiisi%5Ffsol%5Fiisigroup%5Fcom%2FPS116FS%2F%E9%81%8B%E7%B1%8C%E5%9C%98%E9%9A%8A%2D%E7%A0%94%E7%99%BC%E7%94%A2%E8%A8%93%E5%BD%B9%2F04%5F%E7%A0%94%E7%99%BC%E6%9B%BF%E4%BB%A3%E5%BD%B9%281010625%E4%BB%A5%E5%BE%8C%29%2F%E8%B3%87%E8%A8%8A%E7%AE%A1%E7%90%86%E7%B3%BB%E7%B5%B1%2F111%E5%B9%B4%E5%BA%A6%2FCMMI%E5%93%81%E8%B3%AA%E7%B4%80%E9%8C%84%2F03%2D%E5%B0%88%E6%A1%88%E7%99%BC%E5%B1%95%E9%A1%9E%2F05%2D%E9%A9%97%E6%94%B6%E4%BA%A4%E4%BB%98%2F06%5F%E7%B3%BB%E7%B5%B1%E8%BB%9F%E9%AB%94%E5%AE%89%E8%A3%9D%E6%89%8B%E5%86%8A%5F%E4%BA%A4%E4%BB%98&viewid=95b06a39%2D043d%2D4584%2Db67c%2Dc445dae41d77)
- 
+ - [工商憑証](https://docs.google.com/document/d/1LY6y3kLV38EZaIDgDglodCBBc9YQ8ojQuZrxloYmdfA/edit?usp=sharing)
 ## 設計模式
  - [DWR設計模式](https://docs.google.com/document/d/1SKt0F4HXV6aYDICSKThjXXqHVURUWeMh_ZGReRnlqpM/edit?usp=sharing)
  
