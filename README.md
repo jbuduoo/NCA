@@ -40,7 +40,7 @@
 - [每周周報](https://iisicloud-my.sharepoint.com/:x:/r/personal/2203005_iisigroup_com/_layouts/15/Doc.aspx?sourcedoc=%7B6A8E3B26-EFB0-484F-8B89-C8ACDE51C3A3%7D&file=2023_01_%E8%A1%8C%E8%B3%87%E4%B8%89%E7%B5%84%20%E7%A0%94%E6%9B%BF%E5%BD%B9%E7%B6%AD%E8%AD%B7%E6%A1%88%20%E5%B7%A5%E4%BD%9C%E5%91%A8%E5%A0%B1_%E6%88%B4%E5%8B%9D%E5%8F%B0.xlsx&action=default&mobileredirect=true&cid=552aa4c2-e12d-4f02-93ff-fd013dc32f5a)
 ### 其他
 - [行資三組共用資料夾](https://iisicloud-my.sharepoint.com/personal/iisi_fsol_iisigroup_com/PS116FS/Forms/AllItems.aspx?e=2%3AbkhH6n&at=9&CT=1674096755141&OR=OWA%2DNT&CID=0eff1aab%2D525b%2Ddf44%2D88bc%2Df5561166d59d)
-
+- [工程師的隨意記錄](https://docs.google.com/document/d/1YtKUk0oYiJT_xtnFyXu25OpCnC5qBE8GTPrXC808NcQ/edit?usp=sharing)
 ### 清除快取
 http://localhost:8080/MND_NCA/__clearCache.jsp <br/>
 ![](https://i.imgur.com/L4ddd5T.png)
