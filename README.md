@@ -10,6 +10,7 @@
  // 之前的安裝手冊，都放上來
 ## 資料庫
  - [NCA_資料表名稱](https://iisicloud-my.sharepoint.com/:x:/r/personal/iisi_fsol_iisigroup_com/_layouts/15/Doc.aspx?sourcedoc=%7B9857BA00-A69A-4F71-8E06-31D29174BC3F%7D&file=%E8%B3%87%E6%96%99%E8%A1%A8%E6%A0%BC%E6%B8%85%E5%96%AE_2022_11.xlsx&action=default&mobileredirect=true&cid=8f91a6ba-d481-4206-ab98-14d0431e98bc)
+ - [資料庫規格](https://iisicloud-my.sharepoint.com/:w:/r/personal/iisi_fsol_iisigroup_com/_layouts/15/Doc.aspx?sourcedoc=%7B63E577F2-CF5C-41BD-A5AA-01CDC3A6C852%7D&file=%E7%A0%94%E7%99%BC%E5%8F%8A%E7%94%A2%E6%A5%AD%E8%A8%93%E5%84%B2%E6%9B%BF%E4%BB%A3%E5%BD%B9_%E8%BB%9F%E9%AB%94%E8%A8%AD%E8%A8%88%E8%A6%8F%E6%A0%BC.doc&action=default&mobileredirect=true)
 ## 設計模式
  - [DWR設計模式](https://docs.google.com/document/d/1SKt0F4HXV6aYDICSKThjXXqHVURUWeMh_ZGReRnlqpM/edit?usp=sharing)
  
