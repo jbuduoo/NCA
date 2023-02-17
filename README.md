@@ -23,6 +23,7 @@
  - [jQuery的Ajax](https://docs.google.com/document/d/1egaeJKp0HC4yVVvGN5WsDoUtfAGv0-dGUh0IBTByD-Y/edit?usp=sharing)
  - [Action](https://docs.google.com/document/d/15HMlgSPiidzkQFUEYnRT_KwNBdWRf6Hay9v7he4PJlM/edit?usp=sharing)
  - [EJB](https://docs.google.com/document/d/1-QICO1GOfPBdeRuAhM7hJWGTOTcryfA6QaKCGhs5BX0/edit?usp=sharing)
+ - [html解析](https://docs.google.com/document/d/1qrzxhBgYC9EseAg4vMw-ch-Hco_3NCFCHty4FdZDXyQ/edit?usp=sharing)
 ## 連結
  - [政府憑証管理中心](http://gtestca.nat.gov.tw/06-07.html):憑証過期時，到這續卡。<br/>
  - [需求變更單位置](https://iisicloud-my.sharepoint.com/personal/iisi_fsol_iisigroup_com/PS116FS/Forms/AllItems.aspx?e=2%3ApgPpnq&at=9&CID=421cc200%2D8d56%2D248d%2Dcc47%2D3676f0c9a0c2&OR=Teams%2DHL&CT=1674110987958&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIyNy8yMzAxMDUwNTYwMCIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D&id=%2Fpersonal%2Fiisi%5Ffsol%5Fiisigroup%5Fcom%2FPS116FS%2F%E9%81%8B%E7%B1%8C%E5%9C%98%E9%9A%8A%2D%E7%A0%94%E7%99%BC%E7%94%A2%E8%A8%93%E5%BD%B9%2F04%5F%E7%A0%94%E7%99%BC%E6%9B%BF%E4%BB%A3%E5%BD%B9%281010625%E4%BB%A5%E5%BE%8C%29%2F%E8%B3%87%E8%A8%8A%E7%AE%A1%E7%90%86%E7%B3%BB%E7%B5%B1%2F112%E5%B9%B4%E5%BA%A6%2F112%E5%B9%B4%E5%BA%A6%E6%96%B0%E5%A2%9E%EF%BC%8F%E4%BF%AE%E6%94%B9%E5%8A%9F%E8%83%BD%2F01%5F%E9%9C%80%E6%B1%82%E8%AE%8A%E6%9B%B4%E5%96%AE&viewid=95b06a39%2D043d%2D4584%2Db67c%2Dc445dae41d77)
