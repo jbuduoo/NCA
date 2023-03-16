@@ -8,6 +8,7 @@
   - [服務建議書](https://iisicloud-my.sharepoint.com/:w:/r/personal/iisi_fsol_iisigroup_com/_layouts/15/Doc.aspx?sourcedoc=%7B5B981AB9-7F29-49E7-8416-ED8E2EAC002A%7D&file=112%E5%B9%B4_%E7%A0%94%E7%99%BC%E6%9B%BF%E4%BB%A3%E5%BD%B9_%E7%AC%AC3%E9%A0%85-PSL_final-%E9%99%90%E5%88%B6%E7%B7%A8%E8%BC%AF.docx&action=default&mobileredirect=true)
   - [APP相關事項:](https://docs.google.com/document/d/1QtBStC4bxYS1J-TiKXxux2Ud-ZKKuk6CaXLR30MoqfI/edit?usp=sharing)
   - [調整排程測試系統是否運作正常信件](https://redmine.iisigroup.com/issues/14090)
+  - [scm 教學](https://docs.google.com/document/d/16MbP1p9CrmqOwZ-xmU6NIEXuI9kowtFPDrghKJe_0uw/edit)
 ## 安裝手冊
  - [NCA_TFS_Eclipse安裝手冊](https://docs.google.com/document/d/1Ek5vAd7mypgevbCyKLGoVSXHI2Kv50nOgrzG_PBmDcU/edit?usp=sharing)
  - [NCA_Azure_Eclipse 安裝手冊(2023)](https://docs.google.com/document/d/12ztGDT136hPuTqtJqSEneAS8weQZbJ40yhNFrUdUujM/edit)
